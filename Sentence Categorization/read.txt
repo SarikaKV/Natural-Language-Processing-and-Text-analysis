@@ -1,0 +1,1 @@
+This project is about categorizing sentences into given categoring using semantic associations of word vectors and sentence-word matrices and WordNet
