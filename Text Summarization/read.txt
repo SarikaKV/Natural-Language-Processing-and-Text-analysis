@@ -1,0 +1,1 @@
+This project summarises the user reviews using Latent Semantic Analysis after performing text pre-processing. It is an extractive summarization method.
